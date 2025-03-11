@@ -11,7 +11,7 @@ include "servis/database.php";
             echo "sip masuk";
             $register_message = "daftar akun berhasil, sillahkan login";
         }else{
-            echo "data gagal boss";
+            echo "data gagal bosss";
             $register_message = "daftar akun gagal, sillahkan coba lagi";
         }
     }
