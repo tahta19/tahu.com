@@ -6,10 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-    <?php include "layout/header.html"?>
+
+    <?php include "layout/header.html" ?>
+
     <main>
         <p>Halo selamat datang di website kami</p>
     </main>
-    <?php include "layout/footer.html"?>
+
+    <?php include "layout/footer.html" ?>
+
 </body>
 </html>
